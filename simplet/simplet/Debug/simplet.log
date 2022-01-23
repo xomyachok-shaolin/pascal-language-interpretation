@@ -1,0 +1,5 @@
+﻿  simplet.cpp
+C:\Users\ASMinaev\Desktop\ТЯП\simplet\simplet\sa3LL.h(288,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASMinaev\Desktop\ТЯП\simplet\simplet\simplet.cpp(38,23): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\ASMinaev\Desktop\ТЯП\simplet\simplet\simplet.cpp(38,13): warning C4309: инициализация: усечение константного значения
+  simplet.vcxproj -> C:\Users\ASMinaev\Desktop\ТЯП\simplet\Debug\simplet.exe

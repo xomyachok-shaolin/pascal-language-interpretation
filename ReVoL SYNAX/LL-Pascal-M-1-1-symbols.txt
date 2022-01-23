@@ -1,0 +1,112 @@
+//  0 EOT
+//  1 [.]
+//  2 [var]
+//  3 [id]
+//  4 [:]
+//  5 [;]
+//  6 [,]
+//  7 [real]
+//  8 [integer]
+//  9 [string]
+// 10 [begin]
+// 11 [end]
+// 12 [:=]
+// 13 [print]
+// 14 [(]
+// 15 [)]
+// 16 [if]
+// 17 [then]
+// 18 [else]
+// 19 [<]
+// 20 [>]
+// 21 [=]
+// 22 [<>]
+// 23 [+]
+// 24 [-]
+// 25 [or]
+// 26 [and]
+// 27 [*]
+// 28 [/]
+// 29 [not]
+// 30 [I4]
+// 31 [R8]
+// 32 [QUOTE]
+// 33 <M>
+// 34 <DS>
+// 35 <B>
+// 36 <DL>
+// 37 <DL.>
+// 38 <IL>
+// 39 <TY>
+// 40 <SS>
+// 41 <S>
+// 42 <E>
+// 43 <SI>
+// 44 <R>
+// 45 <R.>
+// 46 <A>
+// 47 <LOR>
+// 48 <T>
+// 49 <LAND>
+// 50 <U>
+// 51 <U.>
+// 52 <P>
+
+    // токены
+    TOK_EOT = 0,
+    TOK_DOT,
+    TOK_VAR,
+    TOK_ID,
+    TOK_COLON,
+    TOK_SEMI,
+    TOK_COMMA,
+    TOK_REAL,
+    TOK_INTEGER,
+    TOK_STRING,
+    TOK_BEGIN,
+    TOK_END,
+    TOK_ASS,
+    TOK_PRINT,
+    TOK_LP,
+    TOK_RP,
+    TOK_IF,
+    TOK_THEN,
+    TOK_ELSE,
+    TOK_LT,
+    TOK_GT,
+    TOK_EQ,
+    TOK_NE,
+    TOK_ADD,
+    TOK_SUB,
+    TOK_OR,
+    TOK_AND,
+    TOK_MUL,
+    TOK_DIV,
+    TOK_NOT,
+    TOK_I4,
+    TOK_R8,
+    TOK_QUOTE,
+    TOK_LAST = TOK_QUOTE,
+    // нетерминалы
+    SYM_M,
+    SYM_DS,
+    SYM_B,
+    SYM_DL,
+    SYM_DL_,
+    SYM_IL,
+    SYM_TY,
+    SYM_SS,
+    SYM_S,
+    SYM_E,
+    SYM_SI,
+    SYM_R,
+    SYM_R_,
+    SYM_A,
+    SYM_LOR,
+    SYM_T,
+    SYM_LAND,
+    SYM_U,
+    SYM_U_,
+    SYM_P,
+    SYM_LAST = SYM_P,
+    // конец символов грамматики

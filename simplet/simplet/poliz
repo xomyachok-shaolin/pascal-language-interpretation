@@ -1,0 +1,29 @@
+
+1 ID a
+2 ID b
+3 INT
+
+4 VAR
+
+5 ID d
+6 REAL
+
+7 VAR
+
+8 ID c
+9 STRING
+
+10 VAR
+
+11 ID c
+12 QUOTE hi
+13 I4 1231
+14 ADD
+
+15 ASS
+
+16 ID c
+17 WRITE
+
+18 END
+

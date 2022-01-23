@@ -1,0 +1,10 @@
+C:\Users\ASMinaev\Desktop\ТЯП\CW_PLT\CW_PLT\bin\Debug\CW_PLT.exe.config
+C:\Users\ASMinaev\Desktop\ТЯП\CW_PLT\CW_PLT\bin\Debug\CW_PLT.exe
+C:\Users\ASMinaev\Desktop\ТЯП\CW_PLT\CW_PLT\bin\Debug\CW_PLT.pdb
+C:\Users\ASMinaev\Desktop\ТЯП\CW_PLT\CW_PLT\obj\Debug\CW_PLT.csproj.AssemblyReference.cache
+C:\Users\ASMinaev\Desktop\ТЯП\CW_PLT\CW_PLT\obj\Debug\CW_PLT.Properties.Resources.resources
+C:\Users\ASMinaev\Desktop\ТЯП\CW_PLT\CW_PLT\obj\Debug\CW_PLT.csproj.GenerateResource.cache
+C:\Users\ASMinaev\Desktop\ТЯП\CW_PLT\CW_PLT\obj\Debug\CW_PLT.csproj.CoreCompileInputs.cache
+C:\Users\ASMinaev\Desktop\ТЯП\CW_PLT\CW_PLT\obj\Debug\CW_PLT.exe
+C:\Users\ASMinaev\Desktop\ТЯП\CW_PLT\CW_PLT\obj\Debug\CW_PLT.pdb
+C:\Users\ASMinaev\Desktop\ТЯП\CW_PLT\CW_PLT\obj\Debug\CW_PLT.Form1.resources
